@@ -18,4 +18,4 @@ Meu nome é Daniel Nogueiro e tenho 19 anos. Estou cursando Engenharia de Softwa
 
 <img align = "left" width="450" src = "https://github-readme-stats.vercel.app/api?username=daniel-costa&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20GitHub"/>
 
-<img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-costa&layout=compact&locale=pt-br"/>
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-costa&layout=compact&locale=pt-br)](https://github.com/daniel-costa/github-readme-stats)
