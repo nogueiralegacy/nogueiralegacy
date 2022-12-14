@@ -16,6 +16,6 @@ Meu nome é Daniel Nogueiro e tenho 19 anos. Estou cursando Engenharia de Softwa
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-<img align = "left" width="450" src = "https://github-readme-stats.vercel.app/api?username=daniel-costa&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20GitHub"/>
+<img align = "left" width="450" src = "https://github-readme-stats.vercel.app/api?username=nogueiralegacy&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20GitHub"/>
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-costa&layout=compact&locale=pt-br)](https://github.com/daniel-costa/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiralegacy&layout=compact&locale=pt-br)](https://github.com/daniel-costa/github-readme-stats)
