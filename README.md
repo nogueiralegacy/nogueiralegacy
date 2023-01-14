@@ -19,6 +19,8 @@ Meu nome é Daniel Nogueiro e tenho 19 anos. Estou cursando Engenharia de Softwa
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Estatísticas 📊
-<img align = "left" width="450" src = "https://github-readme-stats.vercel.app/api?username=nogueiralegacy&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20GitHub"/>
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiralegacy&layout=compact&locale=pt-br&theme=dark)](https://github.com/nogueiralegacy/github-readme-stats)
+<div align="left">
+  <a href="https://github.com/nogueiralegacy">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nogueiralegacy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiralegacy&layout=compact&langs_count=7&theme=dark"/>
+</div>
