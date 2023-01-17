@@ -28,5 +28,5 @@ Meu nome é Daniel Nogueiro e tenho 19 anos. Estou cursando Engenharia de Softwa
    <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=nogueiralegacy&theme=dark&hide_border=false"/>
   <a href="https://github.com/nogueiralegacy">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=nogueiralegacy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiralegacy&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiralegacy&layout=compact&langs_count=7&theme=dark"/>
 </div>
