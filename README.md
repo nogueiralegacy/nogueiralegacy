@@ -10,15 +10,23 @@
 Meu nome é Daniel Nogueiro e tenho 19 anos. Estou cursando Engenharia de Software pela UFG.
 
 ## Tech 🤖
+
 ### Linguagens
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 ### Ferramentas
+
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## Estatísticas 📊
+
+<div align="center">
+   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=nogueiralegacy&theme=dark&hide_border=false"/>
+</div>
 <div align="left">
   <a href="https://github.com/nogueiralegacy">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nogueiralegacy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
