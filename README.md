@@ -33,5 +33,4 @@ Meu nome é Daniel Nogueiro e tenho 19 anos. Estou cursando Engenharia de Softwa
    
    
 <br>
-   
  ![Snake animation](https://github.com/nogueiralegacy/nogueiralegacy/blob/output/github-contribution-grid-snake.svg)
