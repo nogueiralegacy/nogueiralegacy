@@ -30,8 +30,3 @@ Meu nome é Daniel Nogueiro e tenho 20 anos. Estou cursando Engenharia de Softwa
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nogueiralegacy&show_icons=true&theme=dark"/>
   <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiralegacy&layout=compact&langs_count=7&theme=dark"/>
 </div>
-   
-   
-<br>
-   
- ![Snake animation](https://github.com/nogueiralegacy/nogueiralegacy/blob/output/github-contribution-grid-snake.svg)
