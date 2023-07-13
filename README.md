@@ -7,7 +7,7 @@
 
 ## Sobre Mim 👋
 
-Meu nome é Daniel Nogueiro e tenho 20 anos. Estou cursando Engenharia de Software pela UFG.
+Meu nome é Daniel Nogueira e tenho 20 anos. Estou cursando Engenharia de Software pela UFG.
 
 ## Tech 🤖
 
