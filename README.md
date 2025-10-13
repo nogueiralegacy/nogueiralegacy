@@ -2,7 +2,7 @@
 </h1>
 
 ## Contato 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.nogueira.dacosta@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@nogueiralegacy.com)
 <p>me@nogueiralegacy.com</p>
 
 ## Sobre Mim
