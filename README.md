@@ -7,7 +7,7 @@
 
 ## Sobre Mim
 
-Meu nome é Daniel Nogueira, tenho 23 anos. Sou Engenharia de Software pela UFG e trabalho com **FHIR®**.
+Meu nome é Daniel Nogueira, tenho 23 anos. Sou engenheiro de software e trabalho com **FHIR®**.
 
 ## Tech 🤖
 
