@@ -17,11 +17,3 @@ Meu nome é Daniel Nogueira, tenho 23 anos. Sou Engenharia de Software pela UFG 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-## Estatísticas 📊
-
-<div align="left">
-   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=nogueiralegacy&hide_border=false"/>
-   <br>
-  <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiralegacy&layout=compact&langs_count=7&title_color=000000"/>
-</div>
